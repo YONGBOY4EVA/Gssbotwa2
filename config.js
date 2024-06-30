@@ -34,7 +34,7 @@ global.mess = {
     success: '`✓ Success`',
     admin: '`This feature is only for group admins`',
     botAdmin: '`I am not an admin!`',
-    owner: '`You are not my owner`'tw3,
+    owner: '`You are not my owner`',
     group: '`You can use this command only in groups ❌`',
     private: '`Feature is used only for private chats!`',
     bot: '`Bot number user special features`',
