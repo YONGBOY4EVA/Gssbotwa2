@@ -7,10 +7,10 @@ global.link = 'https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S'
 global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = "𝑆𝛪𝐷 𝐵𝛨𝛥𝛪";
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
-global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢";
+global.ownername = "YONGBOY 4EVA";
+global.owner = ['2330208311060'];
+global.premium = ['2330208311060'];
+global.packname = "𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢 yongboy4eva";
 global.author = "𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫";
 global.sessionName = 'session';
 global.prefa = [".", "!", "/", "?"];
@@ -34,7 +34,7 @@ global.mess = {
     success: '`✓ Success`',
     admin: '`This feature is only for group admins`',
     botAdmin: '`I am not an admin!`',
-    owner: '`You are not my owner`',
+    owner: '`You are not my owner`'tw3,
     group: '`You can use this command only in groups ❌`',
     private: '`Feature is used only for private chats!`',
     bot: '`Bot number user special features`',
